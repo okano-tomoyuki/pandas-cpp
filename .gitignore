@@ -1,3 +1,8 @@
+# Data
+*.zip
+*.csv
+*.names
+
 # Prerequisites
 *.d
 
